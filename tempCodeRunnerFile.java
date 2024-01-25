@@ -1,1 +1,1 @@
-        int[] marks ={80, 90, 95, 85, 75};
+        System.out.println("Organization Name: " + orgName);
